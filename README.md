@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3> I am Tazhys, I like to goof around sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>sdv
+<h3> I am Tazhys, I like to goof around sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
 <h2>Current Projects</h2>
 <ul>
