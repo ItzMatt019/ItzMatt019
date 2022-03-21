@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2>Current Projects</h2>
+<ul>
+  <li><a href="https://honk.gg">HONK AM GOOSE</a> - A simple, memes discord bot focused on the untitled goose game.</li>
+  <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
+  <li><a href="https://nooder.bot">Nooder</a> - A simple, multipurpose Discord bot.</li>
+</ul>
