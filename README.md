@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 </ul>
 
 <h2>My stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
+<img src="https://github-readme-stats.vercel.app/api?username=itzmatt019&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzmatt019&theme=radical&layout=compact">
 
 <h2>Amazing People</h2>
 <ul>
