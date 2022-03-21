@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   <li><a href="https://kubbet.bot">Kubbet Bot</a> - A simple, memes discord bot focused on the untitled goose game.</li>
   <li><a href="https://grooverbot.com">Groover Music Bot</a> - The perfect discord music bot with extensive features. Feature rich with high quality music from Spotify, Deezer, SoundCloud etc.</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
-  <li><a href="https://nooder.bot">Nooder</a> - A simple, multipurpose Discord bot.</li>
 </ul>
