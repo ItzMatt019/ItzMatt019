@@ -28,3 +28,5 @@ Here are some ideas to get you started:
   <li>Tazhys</li>
   <li>WestCoastWill</li>
 </ul>
+
+Thanks for putting up with me.
