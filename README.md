@@ -23,6 +23,9 @@ Here are some ideas to get you started:
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
 </ul>
 
+<h2>My stats</h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats
+
 <h2>Amazing People</h2>
 <ul>
   <li>Tazhys</li>
