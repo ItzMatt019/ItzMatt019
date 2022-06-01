@@ -4,6 +4,7 @@
 
 <h2>Current Projects</h2>
 <ul>
+  <li><a href="https://distickets.com">DisTickets</a> - A multi-functioning discord ticket bot.</li>
   <li><a href="https://kubbet.bot">Kubbet Bot</a> - A multi-functioning discord bot created with noobs in mind.</li>
   <li><a href="https://grooverbot.com">Groover Music Bot</a> - The perfect discord music bot with extensive features. Feature rich with high quality music from Spotify, Deezer, SoundCloud etc.</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
