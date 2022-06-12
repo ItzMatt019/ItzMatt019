@@ -11,7 +11,7 @@
 </ul>
 
 <h2>Companies</h2>
-  <li><a href="https://hosturly.com"><img alt="DisTickets Logo" title="DisTickets Logo" height="15" width="15" style="border-radius:50%" src="https://distickets.com/assets/img/logo.png">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
+  <li><a href="https://hosturly.com"><img alt="DisTickets Logo" title="DisTickets Logo" height="15" width="15" style="border-radius:50%" src="https://cdn.sryden.gg/i/ilkSbNjP.png">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
   <li><a href="https://sryden.gg">Sryden Group Ltd</a> - A venture capitalist company.</li>
 
 <h2>My stats</h2>
