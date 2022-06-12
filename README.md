@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3>My name is Matthew or ItzMatt019. I am 22 years old and live in Fresno, California.</h3>
+<h3>My name is Matthew, but I go by ItzMatt019 online. I am 22 years old and live in Fresno, California. I'm a discord bot developer and web developer.</h3>
 
 <h2>Current Projects</h2>
 <ul>
