@@ -27,3 +27,7 @@
 </ul>
 
 Thanks for putting up with me.
+
+img {
+  border-radius: 50%;
+}
