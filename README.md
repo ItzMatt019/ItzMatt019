@@ -8,9 +8,11 @@
   <li><a href="https://kubbet.com">Kubbet Bot</a> - A multi-functioning discord bot created with noobs in mind.</li>
   <li><a href="https://grooverbot.com">Groover Music Bot</a> - The perfect discord music bot with extensive features. Feature rich with high quality music from Spotify, Deezer, SoundCloud etc.</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
-  <li><a href="https://inphect.gg">Inphect LTD</a> - A venture capitalist company.</li>
-  <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
 </ul>
+
+<h2>Companies</h2>
+  <li><a href="https://hosturly.com"><img alt="DisTickets Logo" title="DisTickets Logo" height="15" width="15" src="https://distickets.com/assets/img/logo.png">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
+  <li><a href="https://sryden.gg">Sryden Group Ltd</a> - A venture capitalist company.</li>
 
 <h2>My stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=itzmatt019&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
