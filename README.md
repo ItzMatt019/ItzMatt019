@@ -8,7 +8,9 @@
   <li><a href="https://kubbet.com">Kubbet Bot</a> - A multi-functioning discord bot created with noobs in mind.</li>
   <li><a href="https://grooverbot.com">Groover Music Bot</a> - The perfect discord music bot with extensive features. Feature rich with high quality music from Spotify, Deezer, SoundCloud etc.</li>
   <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
+  <li><a href="https://vipercord.com">Vipercord</a> - A discord bot list</li>
 </ul>
+
 
 <h2>Companies</h2>
 <ul>
