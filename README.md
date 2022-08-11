@@ -5,17 +5,13 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://distickets.com/"> DisTickets</a> - DisTickets is a simple and easy to use ticket system for your Discord server. It is designed to be as simple as possible.</li>
-  <li><a href="https://kubbet.com">Kubbet Bot</a> - A multi-functioning discord bot created with noobs in mind.</li>
-  <li><a href="https://grooverbot.com">Groover Music Bot</a> - The perfect discord music bot with extensive features. Feature rich with high quality music from Spotify, Deezer, SoundCloud etc.</li>
-  <li><a href="https://vultrex.dev">Vultrex Development</a> - A group of developers making discord bots</li>
   <li><a href="https://vipercord.com">Vipercord</a> - A discord bot list</li>
 </ul>
 
 
-<h2>Companies</h2>
+<h2>Former Companies</h2>
 <ul>
   <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
-  <li><a href="https://sryden.gg">Sryden Group Ltd</a> - A venture capitalist company.</li>
 </ul>
 
 <h2>My stats</h2>
