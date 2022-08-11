@@ -20,10 +20,7 @@
 
 <h2>Amazing People</h2>
 <ul>
-  <li>Tazhys</li>
   <li>WestCoastWill</li>
-  <li>RizonFTW</li>
-  <li>Axel</li>
 </ul>
 
 Thanks for putting up with me.
