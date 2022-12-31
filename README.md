@@ -21,6 +21,9 @@
 <h2>Amazing People</h2>
 <ul>
   <li>WestCoastWill</li>
+  <li>Tazhys</li>
+  <li>Rizon</li>
+  <li>Connor200024</li>
 </ul>
 
 Thanks for putting up with me.
