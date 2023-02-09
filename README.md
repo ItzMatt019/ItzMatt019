@@ -6,13 +6,14 @@
 <ul>
   <li><a href="https://distickets.com/"> DisTickets</a> - DisTickets is a simple and easy-to-use ticket system for your Discord server.</li>
   <li><a href="https://kharibot.xyz/"> Khari Music</a> - Khari is a music bot with many advanced features. We currently support Spotify and SoundCloud.</li>
-  <li><a href="https://vipercord.com">Vipercord</a> - A discord bot list</li>
+  <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>
 </ul>
 
 
 <h2>Companies</h2>
 <ul>
   <li><a href="https://ezrinix.com">Ezrinix, Ltd</a> - A server hosting company.</li>
+  <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
 <h2>Former Companies</h2>
