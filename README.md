@@ -4,20 +4,24 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://viperdevelopment.xyz/"> Viper Development</a> Viper Development is a group of developers around the world developing Discord Bots. Our current projects are HalloweenBot, EasterBot, ChristmasBot, MemeBot, HikariBot, KhariBot and DisTickets.</li>
-  <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>
+  <li><a href="https://viperdevelopment.xyz/"> Viper Development</a> Viper Development is a group of developers around the world developing Discord Bots. Our current projects are HalloweenBot, EasterBot, ChristmasBot, MemeBot, HikariBot, and DisTickets.</li>
 </ul>
 
 
 <h2>Companies</h2>
 <ul>
-  <li><a href="https://ezrinix.com">Ezrinix, Ltd</a> - A server hosting company.</li>
+  <li><a href="https://ezrinix.com">Ezrinix, LTD</a> - A server hosting company.</li>
   <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
 <h2>Former Companies</h2>
 <ul>
   <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
+</ul>
+
+<h2>Former Projects</h2>
+<ul>
+  <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>>
 </ul>
 
 <h2>My stats</h2>
