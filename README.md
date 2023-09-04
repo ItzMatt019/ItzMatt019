@@ -1,22 +1,22 @@
 ## Hi there 👋
 
-<h3> I am Matthew, but I go by ItzMatt019 online. I am 23 years old and live in Fresno, California. I'm a discord bot developer and web developer.</h3>
+<h3> I am Matthew, but I go by ItzMatt019 online. I am 23 years old and live in Fresno, California. I'm a Discord bot developer and web developer.</h3>
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://viperdevelopment.xyz/"> Viper Development</a> Viper Development is a group of developers around the world developing Discord Bots. Our current projects are HalloweenBot, EasterBot, ChristmasBot, MemeBot, HikariBot, and DisTickets.</li>
+  <li><a href="https://ticketybot.xyz/"> Tickety Bot</a> Tickety is a simple and easy-to-use ticket system for your Discord server..</li>
 </ul>
 
 
 <h2>Companies</h2>
 <ul>
   <li><a href="https://ezrinix.com">Ezrinix, LTD</a> - A server hosting company.</li>
-  <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
 <h2>Former Companies</h2>
 <ul>
   <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
+  <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
 <h2>Former Projects</h2>
