@@ -15,7 +15,7 @@
 
 <h2>Former Companies</h2>
 <ul>
-  <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - A server hosting company.</li>
+  <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - Hosturly provides cost-effective, high-performance, and reliable hosting, including VPS, Web, Dedicated, and Colocation.</li>
   <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
