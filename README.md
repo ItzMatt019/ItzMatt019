@@ -10,7 +10,7 @@
 
 <h2>Companies</h2>
 <ul>
-  <li><a href="https://ezrinix.com">Ezrinix, LTD</a> - A server hosting company.</li>
+  <li><a href="https://ezrinix.com">Ezrinix, LTD</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated and Colocation.</li>
 </ul>
 
 <h2>Former Companies</h2>
