@@ -5,6 +5,7 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://ticketybot.xyz/"> Tickety Bot</a> Tickety is a simple and easy-to-use ticket system for your Discord server..</li>
+  <li><a href="https://www.tropicamc.com/"> Tropica MC</a> TropicaMC is a survival server with a lot of custom textures and features that is better than other servers!</li>
 </ul>
 
 
