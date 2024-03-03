@@ -4,13 +4,13 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://distickets.xyz/"> DisTickets</a> Tickety is a simple and easy-to-use ticket system for your Discord server..</li>
+  <li><a href="https://distickets.xyz/"> DisTickets</a> DisTickets is a simple and easy-to-use ticket system for your Discord server..</li>
 </ul>
 
 
 <h2>Companies</h2>
 <ul>
-  <li><a href="https://ezrinix.com">Ezrinix, LTD</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
+  <li><a href="https://ezrinix.com">Ezrinix</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
 </ul>
 
 <h2>Former Companies</h2>
