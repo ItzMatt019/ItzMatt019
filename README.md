@@ -5,7 +5,7 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://distickets.xyz/"> DisTickets</a> DisTickets is a simple and easy-to-use ticket system for your Discord server..</li>
-  <li><a href="https://yadmb.xyz/"> YADMBs</a> DisTickets is a simple and easy-to-use ticket system for your Discord server..</li>
+  <li><a href="https://yadmb.xyz/"> YADMBs</a> YADMB is an advanced configurable moderation discord bot providing a load of useful moderation features for help with moderating servers.</li>
 </ul>
 
 
