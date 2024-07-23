@@ -2,10 +2,20 @@
 
 <h3> I am Matthew, but I go by ItzMatt019 online. I am 24 years old and live in California, USA. I'm a Discord bot developer and web developer.</h3>
 
+<h2>Contact Information:</h2>
+
+Personal Email: business@itzmatt019.xyz
+
+Company Email: matthew.cadena@ezrinix.com
+
+Personal Discord: itzmatt019
+
+Company Discord: matthew.ezrinix
+
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://distickets.xyz/"> DisTickets</a> DisTickets is a simple and easy-to-use ticket system for your Discord server..</li>
-  <li><a href="https://yadmb.xyz/"> YADMB</a> YADMB is an advanced configurable moderation discord bot providing a load of useful moderation features for help with moderating servers.</li>
+  <li><a href="https://arcaniumbot.xyz/"> Arcanium</a> Streamline your support with ease! It is designed to be as simple as possible</li>
+  <li><a href="https://yadmb.xyz/"> YADMB</a> Advanced configurable moderation discord bot providing a load of useful moderation features for help with moderating servers.</li>
 </ul>
 
 
