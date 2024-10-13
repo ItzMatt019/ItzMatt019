@@ -16,12 +16,14 @@ Company Discord: matthew.ezrinix
 <ul>
   <li><a href="https://arcaniumbot.xyz/"> Arcanium</a> Streamline your support with ease! It is designed to be as simple as possible</li>
   <li><a href="https://yadmb.xyz/"> YADMB</a> Advanced configurable moderation discord bot providing a load of useful moderation features for help with moderating servers.</li>
+  <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>
 </ul>
 
 
 <h2>Companies</h2>
 <ul>
   <li><a href="https://ezrinix.com">Ezrinix</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
+  <li><a href="https://flair.host">Flairhost</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
 </ul>
 
 <h2>Former Companies</h2>
@@ -33,7 +35,7 @@ Company Discord: matthew.ezrinix
 <h2>Former Projects</h2>
 <ul>
   <li><a href="https://www.tropicamc.com/"> Tropica MC</a> TropicaMC is a survival server with a lot of custom textures and features that is better than other servers!</li>
-  <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>
+
 </ul>
 
 <h2>My stats</h2>
