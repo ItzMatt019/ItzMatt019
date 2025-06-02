@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<h3> I am Matthew, but I go by ItzMatt019 online. I am 24 years old and live in California, USA. I'm a Discord bot developer and web developer.</h3>
+<h3> I am Matthew, but I go by ItzMatt019 online. I am 25 years old and live in California, USA. I'm a Discord bot developer and web developer.</h3>
 
 <h2>Contact Information:</h2>
 
 Personal Email: business@itzmatt019.xyz
 
-Company Email: matthew.cadena@ezrinix.com
+Company Email: matthew.cadena@flair.host
 
 Personal Discord: itzmatt019
 
-Company Discord: matthew.ezrinix
+Company Discord: matthew.cadena
 
 <h2>Current Projects</h2>
 <ul>
