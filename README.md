@@ -22,13 +22,13 @@ Company Discord: matthew.ezrinix
 
 <h2>Companies</h2>
 <ul>
-  <li><a href="https://ezrinix.com">Ezrinix</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
-  <li><a href="https://flair.host">Flairhost</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
+  <li><a href="https://flair.host">Flairhost</a> - Host your Minecraft & game servers on reliable hardware with fast NVMe SSDs and powerful CPUs. Instant setup, DDoS protection, and expert support included.</li>
 </ul>
 
 <h2>Former Companies</h2>
 <ul>
   <li><a href="https://hosturly.com">Infraly, LLC DBA Hosturly</a> - Hosturly provides cost-effective, high-performance, and reliable hosting, including VPS, Web, Dedicated, and Colocation.</li>
+  <li><a href="https://ezrinix.com">Ezrinix</a> - Ezrinix strives to provide the best in class budget hosting solutions for your needs, including VPS, Web, Dedicated, and Colocation.</li>
   <li><a href="https://vipercord.com">Vipercord</a> - A holdings company</li>
 </ul>
 
