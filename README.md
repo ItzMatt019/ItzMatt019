@@ -4,13 +4,9 @@
 
 <h2>Contact Information:</h2>
 
-Personal Email: business@itzmatt019.xyz
+Email: business@itzmatt019.xyz
 
-Company Email: matthew.cadena@flair.host
-
-Personal Discord: itzmatt019
-
-Company Discord: matthew.cadena
+Discord: itzmatt019
 
 <h2>Current Projects</h2>
 <ul>
