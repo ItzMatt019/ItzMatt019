@@ -20,7 +20,7 @@ Discord: itzmatt019
 <h2>Companies</h2>
 <ul>
   <li><a href="https://flair.host">Flairhost</a> - Host your Minecraft & game servers on reliable hardware with fast NVMe SSDs and powerful CPUs. Instant setup, DDoS protection, and expert support included.</li>
-  <li><a href="https://boring.global">The Boring Global, LLC</a> - Host your Minecraft & game servers on reliable hardware with fast NVMe SSDs and powerful CPUs. Instant setup, DDoS protection, and expert support included.</li>
+  <li><a href="https://boring.global">The Boring Global, LLC</a> - A holdings company that is ran by two goofy people who like to build and improve on the foundation of the never-ending internet. </li>
 </ul>
 
 <h2>Former Companies</h2>
