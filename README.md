@@ -45,9 +45,6 @@ Discord: itzmatt019
 <ul>
   <li>WestCoastWill</li>
   <li>Tazhys</li>
-  <li>Rizon</li>
-  <li>Connor200024</li>
-  <li>Harley200317</li>
 </ul>
 
 Thanks for putting up with me.
