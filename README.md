@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3> I am Matthew, but I go by ItzMatt019 online. I am 25 years old and live in California, USA. I'm a Discord bot developer and web developer.</h3>
+<h3> I am Matthew, but I go by ItzMatt019 online. I am 26 years old and live in California, USA. I'm a Discord bot developer and web developer.</h3>
 
 <h2>Contact Information:</h2>
 
@@ -10,7 +10,7 @@ Discord: itzmatt019
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://arcaniumbot.xyz/"> Arcanium</a> Streamline your support with ease! It is designed to be as simple as possible</li>
+
   <li><a href="https://yadmb.xyz/"> YADMB</a> Advanced configurable moderation discord bot providing a load of useful moderation features for help with moderating servers.</li>
 
   
@@ -20,7 +20,7 @@ Discord: itzmatt019
 <h2>Companies</h2>
 <ul>
   <li><a href="https://flair.host">Flairhost</a> - Host your Minecraft & game servers on reliable hardware with fast NVMe SSDs and powerful CPUs. Instant setup, DDoS protection, and expert support included.</li>
-  <li><a href="https://boring.global">The Boring Global, LLC</a> - A holdings company that is ran by two goofy people who like to build and improve on the foundation of the never-ending internet. </li>
+  <li><a href="https://krixio.digital">Krixio Digital, LLC</a> - A holdings company that is run by two goofy people who like to build and improve on the foundation of the never-ending internet. </li>
 </ul>
 
 <h2>Former Companies</h2>
@@ -34,6 +34,7 @@ Discord: itzmatt019
 <ul>
   <li><a href="https://www.tropicamc.com/"> Tropica MC</a> TropicaMC is a survival server with a lot of custom textures and features that is better than other servers!</li>
   <li><a href="https://viperbotlist.com">Viper Bot List</a> - A discord bot list</li>
+  <li><a href="https://arcaniumbot.xyz/"> Arcanium</a> Streamline your support with ease! It is designed to be as simple as possible</li>
 </ul>
 
 <h2>My stats</h2>
